@@ -57,7 +57,7 @@ Além disso, o usuário consegue realizar filtros por:
 
 > *Substitua o caminho abaixo para a imagem no seu repositório.*
 
-![Dashboard Analítico de Vendas](images/dashboard_lab1.png)
+![Dashboard Analítico de Vendas](/portifolio_data_analitcs_and_science/Data_Science_Academy/02.%20Primeiros%20passos%20com%20o%20Micrisift%20Power%20BI/imagens/dashboard_lab1.png)
 
 ---
 
