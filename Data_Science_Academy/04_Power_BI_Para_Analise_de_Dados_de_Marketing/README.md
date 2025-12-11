@@ -36,7 +36,7 @@ Análise de efetividade: quem comprou vs. quem não comprou após as campanhas.
 
 ### 4. Padrões de Compra por Ponto de Venda
 Análise geográfica e temporal das vendas (Lojas Físicas, Web, Catálogo).
-![Padrões de Compra](/portifolio_data_analitcs_and_science/Data_Science_Academy/04_Power_BI_Para_Analise_de_Dados_de_Marketing/imagens/A_view_of_purchasing_patterns_by_point_of_sale.png)
+![Padrões de Compra](imagens/A_view_of_purchasing_patterns_by_point_of_sale.png)
 
 ---
 
@@ -47,4 +47,4 @@ Análise geográfica e temporal das vendas (Lojas Físicas, Web, Catálogo).
 
 ---
 **Autor:** Guilherme Silva  
-**LinkedIn:** (https://www.linkedin.com/in/guilherme-patricio-26a965117/)*
+**LinkedIn:** (https://www.linkedin.com/in/guilherme-patricio-26a965117/)
