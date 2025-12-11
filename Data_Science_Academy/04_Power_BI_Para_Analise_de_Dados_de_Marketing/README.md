@@ -46,5 +46,5 @@ Análise geográfica e temporal das vendas (Lojas Físicas, Web, Catálogo).
 * **Performance:** A taxa de conversão geral das campanhas gira em torno de **16%**, sugerindo oportunidade de segmentação mais precisa baseada na renda anual.
 
 ---
-*Autor: [Guilherme_Silva]*  
-Contato: ![LinkedIn](https://www.linkedin.com/in/guilherme-patricio-26a965117/)
+**Autor:** Guilherme Silva  
+**LinkedIn:** (https://www.linkedin.com/in/guilherme-patricio-26a965117/)*
