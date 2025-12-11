@@ -47,4 +47,4 @@ Análise geográfica e temporal das vendas (Lojas Físicas, Web, Catálogo).
 
 ---
 *Autor: [Guilherme_Silva]*  
-*Contato: ![LinkedIn] (https://www.linkedin.com/in/guilherme-patricio-26a965117/)*
+Contato: ![LinkedIn](https://www.linkedin.com/in/guilherme-patricio-26a965117/)
